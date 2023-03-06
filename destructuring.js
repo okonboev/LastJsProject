@@ -80,3 +80,5 @@ function sayAge() {
 let myfunc = sayAge.bind({ age: 19 });
 sayAge();
 myfunc();
+let a = 21;
+// kudfhskdfhksjhdfjkds
